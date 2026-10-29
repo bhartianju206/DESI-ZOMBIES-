@@ -1,0 +1,6 @@
+{
+  "name": "DESI ZOMBIES",
+  "description": "2D retro pixel-art zombie survival shooter in Indian streets created by Raunak_.gpt_",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

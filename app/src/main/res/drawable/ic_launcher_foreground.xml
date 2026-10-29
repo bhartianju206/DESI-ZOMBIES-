@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Zombie Face outline -->
+    <path
+        android:fillColor="#2E8B57"
+        android:pathData="M34,30 h40 v48 h-40 z" />
+    <path
+        android:fillColor="#3CB371"
+        android:pathData="M38,34 h32 v40 h-32 z" />
+    <!-- Red Headband -->
+    <path
+        android:fillColor="#FF2222"
+        android:pathData="M30,24 h48 v10 h-48 z" />
+    <path
+        android:fillColor="#FFCC00"
+        android:pathData="M50,24 h8 v10 h-8 z" />
+    <!-- Eyes -->
+    <path
+        android:fillColor="#111116"
+        android:pathData="M40,42 h10 v12 h-10 z" />
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M44,46 h4 v6 h-4 z" />
+    <path
+        android:fillColor="#111116"
+        android:pathData="M58,42 h10 v12 h-10 z" />
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M60,46 h4 v6 h-4 z" />
+    <!-- Nose -->
+    <path
+        android:fillColor="#111116"
+        android:pathData="M52,56 h4 v6 h-4 z" />
+    <!-- Zombie Teeth -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,66 h6 v6 h-6 z M51,66 h6 v6 h-6 z M60,66 h6 v6 h-6 z" />
+</vector>
